@@ -1,0 +1,25 @@
+#: locale=fr
+
+## Tour
+
+### Description
+
+### Title
+tour.name = corse
+
+## Skin
+
+### Label
+label4056.text = Maison à Briançon
+
+## Media
+
+### Title
+panorama_53D31CA9_5A37_9F70_4196_2535FAC614B7.label = Salon
+panorama_53D341CE_5A37_8931_41B8_0E61E31B167F.label = Transition
+panorama_53D94D80_5A30_9931_41A8_F1CC425DF78A.label = Cuisine
+
+## Action
+
+### URL
+LinkBehaviour_A4D1DCCC_BF24_0354_41BC_7B57F239723C.source = https://t3architecture.fr/
